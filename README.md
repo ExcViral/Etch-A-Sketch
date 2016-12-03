@@ -1,4 +1,4 @@
-This is a javascript version of Etch-A-Sketch.
+This is a javascript version of Etch-A-Sketch. <a href="https://excviral.github.io/Etch-A-Sketch/">View here </a>
 
 This project is a solely for the purpose of learning.
 
